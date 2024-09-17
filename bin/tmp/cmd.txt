@@ -1,0 +1,1 @@
+./blktool -n -N fastboot -l
